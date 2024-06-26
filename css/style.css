@@ -1,0 +1,17 @@
+.images{
+    padding: 20px 0px;
+}
+.container{
+    width: 700px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.item_img{
+    width: 50%;
+    float: left;
+    padding: 0px 4px;
+    box-sizing: border-box;
+}
+.item_img img{
+    width: 100%;
+}
